@@ -83,42 +83,6 @@ Here are some ideas to get you started:
 
 
 
-### Model Compression
-- [Quantization](https://github.com/figurekim317/Quantization)
-- [Efficient VIT](https://github.com/figurekim317/efficientvit)
-- [ONNX](https://github.com/onnx/onnx)
-- [TensorRT_ex](https://github.com/figurekim317/TensorRT_ex)
-- [Tensorflow-onnx](https://github.com/figurekim317/tensorflow-onnx)
-- [Jetson](https://github.com/figurekim317/jetson-inference)
-- [Jetson_stats](https://github.com/figurekim317/jetson_stats)
- 
-### Autonomy
-- [Autonomy](https://github.com/figurekim317/Autonomy)
-- [Perception](https://github.com/figurekim317/Perception-for-Self-driving)
-- [rslidar](https://github.com/figurekim317/rslidar_sdk)
-- [READ](https://github.com/figurekim317/READ)
-- [Autonomy Paper list](https://github.com/figurekim317/awesome-self-driving-car)
-- [Object detection paper](https://github.com/figurekim317/deep_learning_object_detection)
-
-### Segmentation
-- [Mask_RCNN](https://github.com/figurekim317/Mask_RCNN)
-- [Semantic segmentation](https://github.com/figurekim317/Segmentation)
-- [Instance segmentation](https://github.com/figurekim317/instance_seg)
-- [Diffusion Instance segmentation](https://github.com/figurekim317/DiffusionInst)
-- [Segmentation dataset generator](https://github.com/figurekim317/synthetic-segmentation-dataset-generator)
-- [DeepLab v3+](https://github.com/figurekim317/DeepLabV3Plus-Pytorch)
-- [Segmentation code list](https://github.com/figurekim317/awesome-semantic-segmentation)
-
-### Algorithm Note
-- [BOJ](https://github.com/figurekim317/BOJ)
-
-### Machine Learning Note
-- [ML education](https://github.com/figurekim317/ML-For-Beginners)
-
-### Dev Course
-- [Programmers](https://github.com/figurekim317/programmers_dev)
-
-
 <div align="center">
   <h2> 🤝 Connect with me</h2>
 </div>
