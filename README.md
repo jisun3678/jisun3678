@@ -61,16 +61,16 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://github.com/figurekim317">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=transparent" />
+  <a href="https://github.com/jisun3687">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisun3687&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisun3687&layout=compact" />
   </a>
 </div>
 
   
-  <a href="https://github.com/figurekim317">
+  <a href="https://github.com/jisun3687">
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=light&height=400&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=figurekim317's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold"/>
   </a>
 </div>
@@ -78,8 +78,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://solved.ac/ggusg0317">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317" />
+  <a href="https://solved.ac/jisun3687">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jisun3687" />
   </a>
 </div>
 
@@ -126,6 +126,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jongwan-kim-019712251/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"/></a>
-  <a href="https://github.com/figurekim317"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/jisun3687"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"/></a>
+  <a href="https://github.com/jisun3687"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"/></a>
 </div>
